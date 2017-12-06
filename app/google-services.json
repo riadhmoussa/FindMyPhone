@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "863285861090",
+    "firebase_url": "https://family-7dc9b.firebaseio.com",
+    "project_id": "family-7dc9b",
+    "storage_bucket": "family-7dc9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863285861090:android:12e029e97b563c06",
+        "android_client_info": {
+          "package_name": "com.pfeisims.riadh.familylocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863285861090-3q7rv84blme53utuc398ohmrkej18acc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7FXBtnMX9sNR4mEn4Pm8BxjkpLNxWcI0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
